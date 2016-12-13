@@ -1,0 +1,45 @@
+/*practicing styles*/
+
+
+body {
+	background-color: black;
+	color: white;
+}
+
+h1 {
+	font-family: Times;
+	text-decoration: bold;
+}
+
+
+
+
+a {
+	text-decoration: none;
+}
+
+ul li {
+	list-style-type: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
