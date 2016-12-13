@@ -1,37 +1,18 @@
-/*practicing styles*/
-
-
 body {
-	background-color: black;
-	color: white;
+	background-color: #020202;
 }
 
-h1 {
-	font-family: Times;
-	text-decoration: bold;
-}
-
-
-
-
-a {
-	text-decoration: none;
-}
-
-ul li {
-	list-style-type: none;
+header h1{
+	font-family: font-family: 'Mirza', cursive;
 }
 
 
 
-
-
-
-
-
-
-
-
+#container {
+	width: 80%;
+	margin: 0 auto;
+background-color: #281191
+}
 
 
 
